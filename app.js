@@ -1,8 +1,8 @@
 // const fs = require('fs');
 // const qr = require('qrcode');
 
-// // Define the text you want to encode in the QR code
-// const text = " hey ....miss  I found you cute  .. can we connect on  insta ...";
+
+// const text = " ";
 
 // // Generate QR code
 // qr.toFile('./qrcode.png', text, {
